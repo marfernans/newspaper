@@ -188,3 +188,8 @@ a:hover {
 ::placeholder {
   color: #c2c2c2;
 }
+
+/*<!--=====IMAGES=====-->*/
+.content__image {
+  margin: 1rem;
+}
