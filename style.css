@@ -1,0 +1,87 @@
+/*=====RESET=====*/
+/*=====RESET=====*/
+@import url("https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;600;700&family=Cookie&family=Lato:wght@300;400;700&family=Oswald:wght@300;400;700&display=swap");
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+*,
+*:after,
+*:before {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/*=====VARIABLES=====*/
+/*=====FONTS COLORS=====*/
+/*=====FONTS URL=====*/
+/*=====FONTS=====*/
+/*=====TITLES ATOMS=====*/
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 50px;
+}
+
+/*<!--=====TITLES=====-->*/
+.content__title {
+  margin: 1rem;
+}
+
+/*<!--=====TITLES LARGE=====-->*/
+.content__title-large {
+  font-size: 34px;
+  font-weight: 700;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+}
+
+/*<!--=====TITLES SMALL=====-->*/
+.content__title-small {
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+}
+
+/*<!--=====TITLES MEDIUM=====-->*/
+.content__title-medium {
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+}
+
+/*<!--=====TITLES BANNER BUTTON=====-->*/
+.content__title--banner-botton {
+  font-size: 48px;
+  font-weight: 400;
+  font-family: "Cookie", cursive;
+  color: #eeeeee;
+}
+
+/*<!--=====TITLES SUBSCRIBE=====-->*/
+.content__title--subscribe {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Lato", sans-serif;
+  color: #484848;
+}
