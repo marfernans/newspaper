@@ -85,3 +85,35 @@ a:hover {
   font-family: "Lato", sans-serif;
   color: #484848;
 }
+
+/*<!--=====TEXTS LARGE=====-->*/
+.content__text {
+  margin: 1rem;
+}
+
+.content__text--large {
+  font-size: 18px;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+}
+
+/*<!--=====TEXTS SMALL=====-->*/
+.content__text--small {
+  font-size: 13px;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+}
+
+/*<!--=====TEXTS  subscribe=====-->*/
+.content__text--suscribe {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+}
+
+/*<!--=====LINE BOTTON =====-->*/
+.line__botton {
+  border-bottom: 1px solid #c2c2c2;
+  width: 315px;
+}
