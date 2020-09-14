@@ -383,3 +383,33 @@ a:hover {
   margin: 0 1rem;
 }
 
+<<<<<<< HEAD
+=======
+.container__mini {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.content__card--mini {
+  display: flex;
+  width: 342px;
+  height: 87px;
+}
+
+.content__title-small {
+  font-size: 24px;
+  font-weight: 600px;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+  margin: 1rem 1rem 0;
+}
+
+.content__text--date {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+  margin: 0 1rem 0;
+}
+>>>>>>> 612872f4814cd1a9e9eaacf7b46a724a47b823ce
