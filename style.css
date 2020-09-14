@@ -241,5 +241,127 @@ a:hover {
   display: flex;
   justify-content: center;
 }
+<<<<<<< HEAD
 =======
 >>>>>>> 69b9bfd21f1e3831950a06ad2678464e41eb12d0
+=======
+
+.container__card--large {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.content__card--large {
+  width: 636px;
+  height: 562px;
+}
+
+.content__image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.dt {
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #484848;
+  margin: 1rem 0;
+}
+
+.content__title-large {
+  font-size: 34px;
+  font-weight: 700;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+  margin: 1rem 0;
+}
+
+.content__text--large {
+  font-size: 18px;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+  margin: 2rem 0;
+}
+
+.container__card--medium-1 {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.content__card--medium-1 {
+  display: flex;
+  width: 315px;
+  height: 243px;
+}
+
+.content__text--titele {
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+}
+
+.content__paragraphs--medium-1 {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+  margin: 1rem 1rem 0 0;
+}
+
+.button-text-arrow {
+  margin: rem 0;
+}
+
+.container__medium-2 {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.content__card--medium-2 {
+  width: 315px;
+  height: 243px;
+}
+
+.content__card__medium-2--head {
+  display: flex;
+}
+
+.image__medium-2 {
+  width: 142px;
+  height: 127px;
+}
+
+.content__title--medium-2 {
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+  margin: 0 1rem;
+  line-height: 30px;
+}
+
+.content__text--date {
+  font-size: 14px;
+  font-weight: 600;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+  margin: 1rem;
+}
+
+.content__card--medium-2 {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+}
+
+.button-text-arrow {
+  margin: 1rem 0;
+}
+>>>>>>> f0da3c865067624c10ec35d315d86348b92c7548
