@@ -280,3 +280,34 @@ a:hover {
   color: #c2c2c2;
   margin: 2rem 0;
 }
+
+.container__card--medium-1 {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.content__card--medium-1 {
+  display: flex;
+  width: 315px;
+  height: 243px;
+}
+
+.content__text--titele {
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+}
+
+.content__text--paragraphs {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+  margin: 1rem 1rem 0 0;
+}
+
+.button-text-arrow {
+  margin: 2rem 0;
+}
