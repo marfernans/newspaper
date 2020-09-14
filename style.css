@@ -85,7 +85,6 @@ a:hover {
   font-family: "Lato", sans-serif;
   color: #484848;
 }
-<<<<<<< HEAD
 
 /*<!--=====TEXTS LARGE=====-->*/
 .content__text {
@@ -241,10 +240,6 @@ a:hover {
   display: flex;
   justify-content: center;
 }
-<<<<<<< HEAD
-=======
->>>>>>> 69b9bfd21f1e3831950a06ad2678464e41eb12d0
-=======
 
 .container__card--large {
   padding: 50px;
@@ -351,7 +346,7 @@ a:hover {
   font-weight: 600;
   font-family: "Lato", sans-serif;
   color: #c2c2c2;
-  margin: 1rem;
+  margin: 1rem 1rem 0;
 }
 
 .content__card--medium-2 {
@@ -359,9 +354,29 @@ a:hover {
   font-weight: 400;
   font-family: "Lato", sans-serif;
   color: #c2c2c2;
+  margin: 1rem 0 0;
 }
 
 .button-text-arrow {
   margin: 1rem 0;
 }
->>>>>>> f0da3c865067624c10ec35d315d86348b92c7548
+
+.container__small {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.content__card--small {
+  display: flex;
+  width: 300px;
+  height: 81px;
+}
+
+.content__title-small {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+  margin: 0 1rem;
+}
