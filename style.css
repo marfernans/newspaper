@@ -193,3 +193,50 @@ a:hover {
 .content__image {
   margin: 1rem;
 }
+
+.container__suscribe {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 50px;
+}
+
+.subscribe {
+  width: 320px;
+  height: 153px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.09);
+}
+
+.subscribe__title {
+  color: #484848;
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  margin: 0 5px 16px;
+}
+
+.content__text--suscribe {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Lato", sans-serif;
+  margin-left: 5px;
+}
+
+/*<!--=====LINE BOTTON =====-->*/
+.line__botton {
+  border-bottom: 1px solid #c2c2c2;
+  width: 310px;
+}
+
+.input {
+  width: 310px;
+  margin: 10px 5px;
+}
+
+.content__button {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
