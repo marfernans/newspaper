@@ -241,7 +241,6 @@ a:hover {
   justify-content: center;
 }
 
-
 .container__card--large {
   padding: 50px;
   display: flex;
@@ -362,7 +361,6 @@ a:hover {
   margin: 1rem 0;
 }
 
-
 .container__small {
   padding: 50px;
   display: flex;
@@ -383,8 +381,12 @@ a:hover {
   margin: 0 1rem;
 }
 
-<<<<<<< HEAD
-=======
+.container__mini {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
 .container__mini {
   padding: 50px;
   display: flex;
@@ -412,4 +414,3 @@ a:hover {
   color: #c2c2c2;
   margin: 0 1rem 0;
 }
->>>>>>> 612872f4814cd1a9e9eaacf7b46a724a47b823ce
