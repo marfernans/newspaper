@@ -85,7 +85,6 @@ a:hover {
   font-family: "Lato", sans-serif;
   color: #484848;
 }
-<<<<<<< HEAD
 
 /*<!--=====TEXTS LARGE=====-->*/
 .content__text {
@@ -242,6 +241,9 @@ a:hover {
   justify-content: center;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> eb1188f5c41a302ce9ba8d845ec1f995f0a54c57
 
 .container__card--large {
   padding: 50px;
@@ -348,7 +350,7 @@ a:hover {
   font-weight: 600;
   font-family: "Lato", sans-serif;
   color: #c2c2c2;
-  margin: 1rem;
+  margin: 1rem 1rem 0;
 }
 
 .content__card--medium-2 {
@@ -356,12 +358,36 @@ a:hover {
   font-weight: 400;
   font-family: "Lato", sans-serif;
   color: #c2c2c2;
+  margin: 1rem 0 0;
 }
 
 .button-text-arrow {
   margin: 1rem 0;
 }
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 69b9bfd21f1e3831950a06ad2678464e41eb12d0
 >>>>>>> e4bc1e221df7d25d93bd47c01a4886e9be379c3b
+=======
+
+.container__small {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.content__card--small {
+  display: flex;
+  width: 300px;
+  height: 81px;
+}
+
+.content__title-small {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+  margin: 0 1rem;
+}
+>>>>>>> eb1188f5c41a302ce9ba8d845ec1f995f0a54c57
