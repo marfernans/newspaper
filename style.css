@@ -414,3 +414,46 @@ a:hover {
   color: #c2c2c2;
   margin: 0 1rem 0;
 }
+
+.container__banner-top {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.content__card--banner-top {
+  display: flex;
+  justify-content: flex-end;
+  width: 315px;
+  height: 130px;
+}
+
+.content__banner--texts {
+  padding: 1rem;
+}
+
+.content__banner-top--title {
+  font-size: 24px;
+  font-weight: 400;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+}
+
+.content__banner-top--date {
+  font-size: 14px;
+  font-weight: 400px;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+}
+
+.button-transparent {
+  background-color: transparent;
+  border: 1px solid #252525;
+  font-size: 24px;
+  font-family: "Oswald", sans-serif;
+  color: #252525;
+  width: 136px;
+  outline: none;
+  cursor: pointer;
+  margin: 0.5rem 0;
+}
