@@ -300,7 +300,7 @@ a:hover {
   color: #484848;
 }
 
-.content__text--paragraphs {
+.content__paragraphs--medium-1 {
   font-size: 14px;
   font-weight: 400;
   font-family: "Lato", sans-serif;
@@ -309,5 +309,53 @@ a:hover {
 }
 
 .button-text-arrow {
-  margin: 2rem 0;
+  margin: rem 0;
+}
+
+.container__medium-2 {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.content__card--medium-2 {
+  width: 315px;
+  height: 243px;
+}
+
+.content__card__medium-2--head {
+  display: flex;
+}
+
+.image__medium-2 {
+  width: 142px;
+  height: 127px;
+}
+
+.content__title--medium-2 {
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+  margin: 0 1rem;
+  line-height: 30px;
+}
+
+.content__text--date {
+  font-size: 14px;
+  font-weight: 600;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+  margin: 1rem;
+}
+
+.content__card--medium-2 {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+}
+
+.button-text-arrow {
+  margin: 1rem 0;
 }
