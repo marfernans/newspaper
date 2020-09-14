@@ -240,3 +240,43 @@ a:hover {
   display: flex;
   justify-content: center;
 }
+
+.container__card--large {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.content__card--large {
+  width: 636px;
+  height: 562px;
+}
+
+.content__image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.dt {
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #484848;
+  margin: 1rem 0;
+}
+
+.content__title-large {
+  font-size: 34px;
+  font-weight: 700;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+  margin: 1rem 0;
+}
+
+.content__text--large {
+  font-size: 18px;
+  font-family: "Lato", sans-serif;
+  color: #c2c2c2;
+  margin: 2rem 0;
+}
