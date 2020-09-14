@@ -85,6 +85,7 @@ a:hover {
   font-family: "Lato", sans-serif;
   color: #484848;
 }
+<<<<<<< HEAD
 
 /*<!--=====TEXTS LARGE=====-->*/
 .content__text {
@@ -240,6 +241,7 @@ a:hover {
   display: flex;
   justify-content: center;
 }
+<<<<<<< HEAD
 
 .container__card--large {
   padding: 50px;
@@ -359,3 +361,7 @@ a:hover {
 .button-text-arrow {
   margin: 1rem 0;
 }
+=======
+=======
+>>>>>>> 69b9bfd21f1e3831950a06ad2678464e41eb12d0
+>>>>>>> e4bc1e221df7d25d93bd47c01a4886e9be379c3b
