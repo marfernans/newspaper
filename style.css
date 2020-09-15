@@ -502,3 +502,43 @@ a:hover {
   font-family: "Oswald", sans-serif;
   color: #eeeeee;
 }
+
+.content__banner--head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 310px;
+  height: 90px;
+  border-bottom: 2px solid #c2c2c2;
+}
+
+.container__banner--title {
+  margin: 0 1rem;
+}
+
+.title__banner--head {
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Abhaya Libre", serif;
+  color: #252525;
+}
+
+.content__banner-head--texts {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.price {
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Abhaya Libre", serif;
+  color: #484848;
+}
+
+.city {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Oswald", sans-serif;
+  color: #484848;
+  line-height: 16px;
+}
