@@ -457,3 +457,48 @@ a:hover {
   cursor: pointer;
   margin: 0.5rem 0;
 }
+
+.container__banner--bottom {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.content__card--banner-bottom {
+  width: 313px;
+  height: 98px;
+  background-color: #252525;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2.5rem;
+}
+
+.content__title--banner-bottom {
+  font-size: 48px;
+  font-weight: 400;
+  font-family: "Cookie", cursive;
+  color: #eeeeee;
+  line-height: 2rem;
+}
+
+.banner__text__subtitle {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Oswald", sans-serif;
+  line-height: 20px;
+  color: #eeeeee;
+  border-bottom: 2px solid #c2c2c2;
+  margin: 0 0 0.5rem;
+}
+
+.bottom-text-arrow {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Oswald", sans-serif;
+  color: #eeeeee;
+}
